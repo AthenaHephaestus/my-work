@@ -1,0 +1,34 @@
+body{
+    text-align:center; 
+    background-color: darkorchid;
+}
+
+p{
+    font-size: 40px;
+    font-family: cursive;
+    color: cadetblue;
+
+}
+
+h1{
+    font-family: inherit;
+    color: darkolivegreen;
+}
+#apps{
+    background-color: aquamarine; 
+}
+
+#games{
+    background-color:darkorange;
+}
+ 
+#chatbot{
+    background-color: chartreuse;
+}
+
+img{
+    transition: transform 0.2s;
+}
+img.hover{
+    transform: scale(0.9);
+}
